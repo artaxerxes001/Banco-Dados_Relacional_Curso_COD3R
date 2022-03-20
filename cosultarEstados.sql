@@ -18,3 +18,6 @@ order by populacao
 -- desc aplica a ordenação de forma decrecente
 select Sigla, nome from estados where populacao >= 10 
 order by populacao desc
+
+
+--  usar where se desejar

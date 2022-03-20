@@ -6,3 +6,6 @@ values
 ('Alagoas','AL','Nordeste',3.38),
 ('Amapa','AP','Norte',0.8),
 ('Amazonas','AM','Norte',4.06)
+
+
+-- ñ precisa usar where
